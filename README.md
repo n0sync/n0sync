@@ -2,6 +2,6 @@
 
 I explore different programming languages and tools, build projects that interest me, and reverse-engineer systems to understand how they work.
 
-![GitHub Stats](https://n0sync-readme-stats.vercel.app/api?username=n0sync&show_icons=true&theme=transparent&hide_border=true&hide_title=true)
+![GitHub Stats](https://n0sync-readme-stats.vercel.app/api?username=reumer06&show_icons=true&theme=transparent&hide_border=true&hide_title=true)
 
-![Metrics](https://raw.githubusercontent.com/n0sync/n0sync/main/github-metrics.svg)
+![Metrics](https://raw.githubusercontent.com/reumer06/reumer06/main/github-metrics.svg)
